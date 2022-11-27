@@ -25,7 +25,7 @@ public class ReverseNumber {
 		StringBuffer sb= new StringBuffer(String.valueOf(num));
 		rev=sb.reverse();
 		System.out.println("reverse number is : "+rev);
-		
+		System.out.println("program is done");
 	}
 
 }
